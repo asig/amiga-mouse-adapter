@@ -1,7 +1,7 @@
 # amiga-mouse-adapter
 
-This is a simple small adapter that transforms the movements of your Amiga
-joystick to the movements of an Amiga mouse.
+This is a simple small adapter that transforms your Amiga joystick signals
+into movement signals of an Amiga mouse.
 
 Very handy if your trusty old tank mouse seems to be broken, and you need
 a mouse _right now_ on a Saturday night, but you can live without a right
