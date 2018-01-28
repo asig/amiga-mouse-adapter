@@ -1,7 +1,7 @@
 /*
  * Convert Amiga joystick movements to mouse movements.
  * 
- * Copyright (c) 2017 Andreas Signer <asigner@gmail.com>
+ * Copyright (c) 2018 Andreas Signer <asigner@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
