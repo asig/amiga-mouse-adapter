@@ -32,4 +32,6 @@ joystick to move the mouse cursor.
 ~~A gazillion of people already did this, and you can buy it on ebay, but I 
 still plan to turn this into a PS/2 mouse adapter anyway, somewhen in the
 future.~~
-An adapter for PS/2 mice is available at https://github.com/asig/amiga-ps2-mouse-adapter
+
+An adapter for using a PS/2 mouse with your Amiga is available at 
+https://github.com/asig/amiga-ps2-mouse-adapter
